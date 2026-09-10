@@ -1,0 +1,2 @@
+# CSE761-Adaptive-Multimodal-Fusion-for-Social-Media-Content-Classification-using-PySpark
+We present a distributed PySpark pipeline for six-way fake-news detection on Fakeddit. We compare concatenation with adaptive gated fusion under complete and missing modalities. Joint end-to-end gating outperforms concatenation in all conditions, reaching 65.1% accuracy versus 56.2% on clean multimodal data. This supports reliable real-world use..
